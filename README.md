@@ -23,13 +23,13 @@ that offers funny news about:
 
 ### The Satirical Scroll free newsletter subscription includes:
 
- + Two articles
+ + Two articles.
 
  + \- Ads.
 
 ### The Satirical Scroll premium newsletter subscription (4.99$ / MO) includes:
 
- * Three articles
+ * Three articles.
 
  * !!NO MORE PESKY ADS!!
 
@@ -63,9 +63,9 @@ In order to subscribe to The Satirical Scroll:
 
  + Go to: https://getresponse.com/TheSatiricalScroll
 
- + Click "subscribe"
+ + Click "subscribe".
 
- + Profit
+ + Profit.
 
 ## Our story
 
@@ -81,5 +81,7 @@ because we want to make people laugh.
 
 
 ## DISCLAIMER
+
+<!-- TODO: [...] -->
 
 ### All our news headlines and news content is fake and does not reflect the real view of any individuals and events in the world.
