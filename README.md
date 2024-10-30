@@ -1,4 +1,4 @@
-# Satirical Scroll Humorous Newsletter
+# The Satirical Scroll Humorous Newsletter
 
 The Satirical Scroll is a humorous newsletter,
 
