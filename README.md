@@ -5,9 +5,13 @@ The Satirical Scroll is a daily humorous newsletter
 that offers funny news about:
 
  - Technology
+
  - Culture
+
  - Politics
+
  - Finance
+
  - [...]
 
 
@@ -16,27 +20,40 @@ that offers funny news about:
 ### The Satirical Scroll Free Newsletter
 
  - Contains 2 articles per week.
- - Is available in English.
- - Greek language support coming soon.
+
+ - - Is only available in English.
+
+ - - Ads.
+
+ - - More ads.
 
 ### The Satirical Scroll Premium Newsletter
 
  - Contains 5 articles 2 times per week.
+
  - Is available in:
+
  - English
+
  - Greek
+
  - Bulgarian
+
  - [...]
+
+ - NO MORE PESKY ADS!
 
  - 4.99 EUR per month.
 
 ### Instructions
 
-In order to subscribe to The Satirical Scroll,
+In order to subscribe to The Satirical Scroll:
 
-you need to:
+ - Go to: https://getresponse.com/TheSatiricalScroll
 
- - [...]
+ - Click "subscribe"
+
+ - Profit
 
 ## Our story
 
@@ -46,7 +63,7 @@ by two programmers,
 
 as a humorous newsletter subscription,
 
-that [...]
+because we want to make people laugh.
 
 
 ## DISCLAIMER
