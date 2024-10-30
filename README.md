@@ -31,7 +31,7 @@ that offers funny news about:
 
  * Three articles.
 
- * !!NO MORE PESKY ADS!!
+ * NO MORE PESKY ADS!!
 
  * One of theese each week:
 
