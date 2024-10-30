@@ -21,11 +21,11 @@ that offers funny news about:
 
  - Contains 2 articles per week.
 
- - - Is only available in English.
+ - \- Is only available in English.
 
- - - Ads.
+ - \- Ads.
 
- - - More ads.
+ - \- More ads.
 
 ### The Satirical Scroll Premium Newsletter
 
