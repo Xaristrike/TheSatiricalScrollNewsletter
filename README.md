@@ -6,6 +6,8 @@ that offers funny news about:
 
  - Technology
  - Culture
+ - Politics
+ - Finance
  - [...]
 
 
@@ -13,24 +15,34 @@ that offers funny news about:
 
 ### The Satirical Scroll Free Newsletter
 
- - Contains 3 articles per week.
+ - Contains 2 articles per week.
  - Is available in English.
- - Greek language support comming soon.
+ - Greek language support coming soon.
 
 ### The Satirical Scroll Premium Newsletter
 
  - Contains 5 articles 2 times per week.
  - Is available in:
- -- English
- -- Greek
- -- Bulgarian
- -- [...]
+ - English
+ - Greek
+ - Bulgarian
+ - [...]
 
  - 4.99 EUR per month.
 
-## More info
+### Instructions
+
+In order to subscribe to The Satirical Scroll,
+
+you need to:
+
+ - [...]
+
+## Our story
 
 The Satirical Scroll was created in 2024,
+
+by two programmers,
 
 as a humorous newsletter subscription,
 
@@ -39,4 +51,4 @@ that [...]
 
 ## DISCLAIMER
 
-### The news headlines and content are AI generated and do not reflect the real view of individuals and events in them.
+### All our news headlines and news content is AI generated and does not reflect the real view of any individuals and events.
