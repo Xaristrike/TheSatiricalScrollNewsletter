@@ -1,6 +1,8 @@
 # Satirical Scroll Humorous Newsletter
 
-The Satirical Scroll is a daily humorous newsletter
+The Satirical Scroll is a humorous newsletter,
+
+issued twice a week,
 
 that offers funny news about:
 
@@ -12,58 +14,48 @@ that offers funny news about:
 
  + Finance
 
- + [...]
+ + Society
+
+<!-- TODO: --> + [...]
 
 
 ## Availability
 
-### The Satirical Scroll Free Newsletter
+### The Satirical Scroll free newsletter subscription includes:
 
- + \- Is only available in English.
+ + Two articles
 
  + \- Ads.
 
- + \- More ads.
+### The Satirical Scroll premium newsletter subscription (4.99$ / MO) includes:
 
-### The Satirical Scroll Premium Newsletter
-
- * Is available in:
-
-    + English
-
-    + Greek
-
-    + Bulgarian
-
-    + [...]
+ * Three articles
 
  * !!NO MORE PESKY ADS!!
 
- * Contains one of the following:
+ * One of theese each week:
 
-    + Absurd Advice Column
+	+ Absurd Advice Column
 
-    + The Satirical Horoscope
+	+ The Satirical Horoscope
 
-    + Incredible career advice
+	+ Incredible career advice
 
-    + Too-good-to-be-true trivia
+	+ Too-good-to-be-true trivia
 
-    + Conspiracy corner
+	+ Conspiracy corner
 
-    + Underrated skills of the Day
+	+ Underrated skills of the Day
 
-    + The Future According to Us"
+	+ The Future According to Us"
 
-    + Weird News Roundup
+	+ Weird News Roundup
 
-    + Interview with a Nobody
+	+ Interview with a Nobody
 
-    + Retro-Inspired Satirical Ads
+	+ Retro-Inspired Satirical Ads
 
-    + Rejected Headlines
-
- * 4.99 EUR per month.
+	+ Rejected Headlines
 
 ### Instructions
 
@@ -77,9 +69,9 @@ In order to subscribe to The Satirical Scroll:
 
 ## Our story
 
-[...]
+<!-- TODO: --> [...]
 
-The Satirical Scroll was created in 2024,
+The Satirical Scroll was created in September 2024,
 
 by two programmers,
 
@@ -90,6 +82,4 @@ because we want to make people laugh.
 
 ## DISCLAIMER
 
-[...]
-
-### All our news headlines and news content is AI generated and does not reflect the real view of any individuals and events.
+### All our news headlines and news content is fake and does not reflect the real view of any individuals and events in the world.
