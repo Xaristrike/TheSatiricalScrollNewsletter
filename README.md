@@ -16,7 +16,7 @@ that offers funny news about:
 
  + Society
 
-<!-- TODO: --> + [...]
+<!-- TODO: [...] -->
 
 
 ## Availability
@@ -69,7 +69,7 @@ In order to subscribe to The Satirical Scroll:
 
 ## Our story
 
-<!-- TODO: --> [...]
+<!-- TODO: [...] -->
 
 The Satirical Scroll was created in September 2024,
 
