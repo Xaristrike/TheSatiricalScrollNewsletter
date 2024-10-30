@@ -33,7 +33,7 @@ that offers funny news about:
 
  * NO MORE PESKY ADS!!
 
- * One of theese each week:
+ * One of these each week:
 
 	+ Absurd Advice Column
 
