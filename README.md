@@ -57,7 +57,7 @@ that offers funny news about:
 
 	+ Rejected Headlines
 
-### Instructions
+## Instructions
 
 In order to subscribe to The Satirical Scroll:
 
