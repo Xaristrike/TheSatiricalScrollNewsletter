@@ -77,7 +77,7 @@ by two programmers,
 
 as a humorous newsletter subscription,
 
-because we want to make people laugh.
+because we want to make the world laugh.
 
 
 ## DISCLAIMER
