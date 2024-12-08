@@ -47,7 +47,7 @@ that offers funny news about:
 
 	+ Underrated skills of the Day
 
-	+ The Future According to Us"
+	+ The Future According to Us
 
 	+ Weird News Roundup
 
