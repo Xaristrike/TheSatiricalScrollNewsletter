@@ -1,0 +1,10 @@
+# Directories
+.git/
+
+
+# Files
+.gitignore
+
+
+# Extensions
+*.o
